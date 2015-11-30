@@ -32,8 +32,18 @@
       <label>
         <input type="submit" value="Login">
       </label>
+
+
     </fieldset>
   </form>
+
+  <input type="button" value="test" onclick="test()">
+
+  <script>
+    function test() {
+      alert("test");
+    }
+  </script>
 </div>
 <br>
 </body>
